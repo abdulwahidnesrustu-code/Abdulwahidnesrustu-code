@@ -1,74 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abdulwahid Nesru</h1>
+<h3 align="center">Student Developer | Learning Web Development..... I am a high school student interested in web development and programming. I enjoy building simple projects and improving my skills step by step.</h3>
 
-<h1 align="center">ABDULWAHID NESRU</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulwahidnesrustu-code&label=Profile%20views&color=0e75b6&style=flat" alt="abdulwahidnesrustu-code" /> </p>
 
-<p align="center">
-Student Developer | Learning Web Development
+- 🔭 I’m currently working on [Detective Evidence Board – Mystery Character Profile](https://github.com/abdulwahidnesrustu-code)
+
+- 🌱 I’m currently learning **HTML and CSS - Interested in web design and user interfaces - Practicing by creating small web projects - Working toward becoming a skilled software developer**
+
+- 👨‍💻 All of my projects are available at [https://github.com/abdulwahidnesrustu-code](https://github.com/abdulwahidnesrustu-code)
+
+- 📫 How to reach me **abdulwahid.nesru.stu@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:111827&height=120&section=header"/>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ABDULWAHID&label=Profile%20Views&color=0e75b6&style=flat">
-</p>
-
----
-
-## About Me
-
-I am a high school student interested in web development and programming.  
-I enjoy building small projects to improve my coding and design skills.
-
-- Currently learning HTML and CSS
-- Interested in web design and user interfaces
-- Practicing by creating beginner web projects
-- Working toward becoming a skilled software developer
-
----
-
-## Skills
-
-![HTML](https://img.shields.io/badge/HTML-Beginner-orange)
-![CSS](https://img.shields.io/badge/CSS-Learning-blue)
-![Web Design](https://img.shields.io/badge/Web%20Design-Practice-green)
-
----
-
-## Featured Project
-
-**Detective Evidence Board – Mystery Character Profile**
-
-A single-page detective themed webpage that organizes investigation information such as subject profile, timeline, evidence, and detective theories using HTML and inline CSS.
-
----
-
-## Learning Focus
-
-- Web page structure  
-- Layout and styling  
-- Designing clear user interfaces  
-
----
-
-## GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ABDULWAHID&show_icons=true&theme=dark">
-</p>
-
----
-
-## Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULWAHID &layout=compact&theme=dark">
-</p>
-
----
-
-## Profile
-
-GitHub:  
-https://github.com/abdulwahidnesrustu-code
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwahidnesrustu-code&" alt="abdulwahidnesrustu-code" /></p>
