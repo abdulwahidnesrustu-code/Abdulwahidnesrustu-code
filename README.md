@@ -2,16 +2,19 @@
 
 # Abdulwahid Nesru 
 
-High school student learning web development and programming.  
-I enjoy building simple projects and improving my skills step by step.
+<h1 align="center">Abdulwahid Nesru </h1>
+
+<p align="center">
+High school student learning web development and practicing by building small projects.
+</p>
 
 ---
 
 ## About Me
-- Learning HTML and CSS
-- Interested in web design and user interfaces
-- Practicing by building small projects
-- Goal: Become a skilled software developer
+- Student interested in web design and programming
+- Currently learning HTML and CSS
+- Enjoy creating structured and simple webpages
+- Working to improve my development skills step by step
 
 ---
 
@@ -22,27 +25,25 @@ I enjoy building simple projects and improving my skills step by step.
 
 ---
 
-## Current Project
-Detective Evidence Board – Mystery Character Profile  
+## Highlight Project
+**Detective Evidence Board – Mystery Character Profile**
 
-A single-page detective-style webpage that organizes investigation information such as subject details, timeline, evidence, and theories using HTML and inline CSS.
-
----
-
-## Learning Focus
-- Web page structure  
-- Layout and styling  
-- Creating organized user interfaces  
+A single-page detective themed webpage that organizes investigation information such as subject profile, timeline, evidence, and detective theories using HTML and inline CSS.
 
 ---
 
-## GitHub Goals
-- Upload projects regularly  
-- Improve programming skills  
-- Build a strong project portfolio  
+## Current Learning Focus
+- Web page structure
+- Layout and styling
+- Designing clear and organized user interfaces
 
 ---
 
-## Contact
-GitHub Profile:  
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulwahidnesrustu-code&show_icons=true)
+
+---
+
+## Profile
+GitHub:  
 https://github.com/abdulwahidnesrustu-code
